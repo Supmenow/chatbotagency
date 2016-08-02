@@ -12,5 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+	$title = "Bot Agency";
+	$description = "We are a bot agencey";
+	$keywords = "Bot Agency";
+    return view('welcome',compact("title","description","keywords"));
 });
