@@ -10,7 +10,7 @@
                         <h1 class="text-center">We are <u>the</u> Chatbot agency.</h1>
                         <p class="text-center lead">We build and integrate chatbots into Messenger, Slack, Twilio, Twitter and many more.</p>
                         <p class="text-center lead">We built the <em>FIRST</em> <a href="https://jcampbell05.github.io/BotKit/" target="_blank">Chatbot Framework</a> for you to develop with.</p>
-                        <p class="text-center lead">Drop us a line and chat <a href="mailto:team@skynet.co">team@wenow.co</a></p>
+                        <p class="text-center lead">Drop us a line and chat <a href="mailto:rich@wenow.co">rich@wenow.co</a></p>
                     </div>
                 </div>
             </div>
