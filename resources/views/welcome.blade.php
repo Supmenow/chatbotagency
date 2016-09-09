@@ -1,7 +1,7 @@
 @extends('app')
 
 @section('content')
-    
+
     <section class="header">
         <div class="container">
             <div class="row">
@@ -9,14 +9,14 @@
                     <div class='jumbotron'>
                         <h1 class="text-center">We are <u>the</u> Chatbot agency.</h1>
                         <p class="text-center lead">We build and integrate chatbots into Messenger, Slack, Twilio, Twitter and many more.</p>
-                        <p class="text-center lead">We built the <em>FIRST</em> <a href="https://jcampbell05.github.io/BotKit/" target="_blank">Chatbot Framework</a> for you to develop with.</p>
+                        <p class="text-center lead">We built the <em>SIMPLEST</em> <a href="https://github.com/Bottr-js/Bottr" target="_blank">Chatbot Framework</a> for you to develop with.</p>
                         <p class="text-center lead">Drop us a line and chat <a href="mailto:rich@wenow.co">rich@wenow.co</a></p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    
+
     <section class='process darkGrey'>
         <div class="container">
             <div class="row">
@@ -39,7 +39,7 @@
                         <div class="boxContent">
                             <h1 class="text-center"><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span></h1>
                             <p class="text-center"><strong>Build</strong></p>
-                            <p>Build out the tech with AI and NLP capabilities. We can integrate with any platform, via our Swift 3 BotKit.</p>
+                            <p>Build out the tech with AI and NLP capabilities. We can integrate with any platform, via our Node.js Bottr.</p>
                         </div>
                     </div>
                 </div>
@@ -95,14 +95,13 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h1 class="text-center">
-                        <a href="https://jcampbell05.github.io/BotKit/" target="_blank"><img src="https://jcampbell05.github.io/BotKit/Images/Logo.png"></a>
+                        <a href="https://github.com/Bottr-js/Bottr" target="_blank"><img src="https://github.com/Bottr-js/Bottr/Images/Logo.png"></a>
                     </h1>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
-                    <p class="text-center"><a href="https://jcampbell05.github.io/BotKit/" target="_blank">BotKit</a> is our Open Source Bot Framework that brings together integration (Slack, Messenger, Twilio etc) with Routing (NLP) and Logic (How you want to reply to a given command).</p>
-
+                    <p class="text-center"><a href="https://github.com/Bottr-js/Bottr" target="_blank">Bottr</a> is our Open Source Bot Framework which is the easiest way to create your bot.</p>
                 </div>
             </div>
         </div>
